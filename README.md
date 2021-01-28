@@ -8,7 +8,11 @@
 - Credentials for grafana are admin:password. When grafana loads up select the "besu Dashboard"
 
 ## Overview of Setup
-![Image ibft](../../images/ibft.png)
+![Image ibft](ibft.png)
+
+
+## Overview of Setup (with orion)
+![Image ibft](ibft-orion.png)
 
 ## NOTE:
 1. validators1 and 2 serve as bootnodes as well. Adjust according to your needs
